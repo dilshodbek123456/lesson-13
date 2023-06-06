@@ -1,0 +1,149 @@
+body {
+    background-color: rgb(228, 157, 70);
+}
+.box-1 {
+    width: 70%;
+    height: 80vh;
+    background-color: #fff;
+    margin: 3rem auto;
+    display: flex;
+
+}
+.box-2 {
+    width: 45%;
+    background-color: gray;
+    /* padding: 20px; */
+    overflow: auto;
+}
+.box-3 {
+    width: 60%;
+    background-color: whitesmoke;
+    overflow: auto;
+    padding: 2rem;
+}
+.my {
+    font-size: 30px;
+    display: inline;
+    margin-right: 60px;
+}
+span {
+    font-size: 30px;
+    margin-right: 65px;
+}
+
+.card-1 {
+    width: 230px;
+    height: 130px;
+    background-color: white;
+    padding: 5px;
+    margin: 15px;
+}
+
+.card-1 img {
+    width: 50px;
+    height: 70px;   
+}
+.tro {
+    margin-top: -10px;
+
+}
+.kurr {
+    font-size: 22px;
+    display: inline;
+    margin-right: 40px;
+}
+.siuu {
+    /* font-size: 10px; */
+    /* margin-left: 360px; */
+    float: right;
+    /* background: #000; */
+    margin-left: 80px;
+}
+.otto {
+    /* font-size: 10px; */
+    /* margin-left: 20px; */
+}
+.otto-2 {
+    /* margin-left: 40px; */
+
+}
+.gougou {
+    display: inline-block;
+    display: flex;
+    align-items: center;
+}
+.text-content {
+    margin-right: 30px;
+    margin-left: 20px;
+}
+.siuu-1 {
+
+    margin-left: 120px;
+}
+.siuu-2 {
+    margin-left: 80px;
+}
+.siuu-3 {
+    margin-left: 10px;
+}
+.siuu-4 {
+    margin-left: 100px;
+}
+.siuu-5 {
+    margin-left: 100px;
+}
+
+.gol {
+    border: solid 1px;
+    border-radius: 20px;
+    width: 20px;
+    height: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.gol-1 {
+    border: solid 1px;
+    border-radius: 20px;
+    width: 20px;
+    height: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.gol-2 {
+    border: solid 1px;
+    border-radius: 20px;
+    width: 20px;
+    height: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.gol-3 {
+    border: solid 1px;
+    border-radius: 20px;
+    width: 20px;
+    height: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.gol-4 {
+    border: solid 1px;
+    border-radius: 20px;
+    width: 20px;
+    height: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.gol-5 {
+    border: solid 1px;
+    border-radius: 20px;
+    width: 20px;
+    height: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
